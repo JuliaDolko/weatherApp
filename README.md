@@ -7,12 +7,13 @@ LINK to preview: https://subtle-kitten-d190d4.netlify.app/
 
 ## Features
 
+
 **Weather Data:** The user's input is passed to the fetchWeather function, which utilizes the openweathermap.org API to fetch and display current weather parameters such as temperature (in Celsius), humidity, wind speed, and a short description of the weather.
 **Background Image:** The user's input is also used to change the background image of the website. The city name is passed to the Unsplash URL, and the resulting image is set as the background using document.body.style.backgroundImage.
 **HTML Structure:** HTML is used to define the structure and layout of the website, providing the necessary elements and containers for displaying the weather data and search bar.
 Minimalistic Design: CSS is used to style the website with a basic and minimalistic design, ensuring a clean and user-friendly interface
 
-##Technologies Used
+## Technologies Used
 
 **HTML**: Markup language used for structuring the website.
 **CSS:** Styling language used for design and layout.
