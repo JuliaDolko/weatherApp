@@ -3,6 +3,8 @@
 
 This repository contains a weather website created using HTML, CSS, and JavaScript. The website allows users to enter a city name in the search bar and retrieve current weather information for that city. Additionally, the background image of the website dynamically changes based on the user's search input.
 
+LINK to preview: https://subtle-kitten-d190d4.netlify.app/ 
+
 ## Features
 
 **Weather Data:** The user's input is passed to the fetchWeather function, which utilizes the openweathermap.org API to fetch and display current weather parameters such as temperature (in Celsius), humidity, wind speed, and a short description of the weather.
