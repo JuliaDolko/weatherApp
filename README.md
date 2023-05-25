@@ -19,9 +19,11 @@ Minimalistic Design: CSS is used to style the website with a basic and minimalis
 ## Technologies Used
 
 **HTML**: Markup language used for structuring the website.
-`cdvdv`
+
 **CSS:** Styling language used for design and layout.
+
 **JavaScript:** Programming language used for fetching data from the API, manipulating the DOM, and updating the background image.
+
 **OpenWeatherMap API:** Used to retrieve current weather data for the specified city.
 Unsplash API: Used to dynamically change the background image based on the user's search input.
 
